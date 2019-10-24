@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleGoalSelector", "NumberGenerator\BattleGoalSelector.csproj", "{48607346-E2B7-44FE-BE1C-DB2CB3ACF53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48607346-E2B7-44FE-BE1C-DB2CB3ACF53B}.Debug|x64.ActiveCfg = Debug|x64
+		{48607346-E2B7-44FE-BE1C-DB2CB3ACF53B}.Debug|x64.Build.0 = Debug|x64
+		{48607346-E2B7-44FE-BE1C-DB2CB3ACF53B}.Release|x64.ActiveCfg = Release|x64
+		{48607346-E2B7-44FE-BE1C-DB2CB3ACF53B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401A9A5D-77E0-4799-9E99-B42E87961D37}
+	EndGlobalSection
+EndGlobal
